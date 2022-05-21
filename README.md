@@ -1,4 +1,5 @@
 ### 0djent
+Programmer, musician, 3d artist.
 
 <!--
 **0djent/0djent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
