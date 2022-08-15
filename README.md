@@ -10,6 +10,10 @@ https://github.com/0djentd/alprou
 
 https://github.com/0djentd/alprou-backend
 
+https://github.com/0djentd/portfolio
+
+https://github.com/0djentd/timetable-app
+
 https://github.com/0djentd/omoidasu-backend
 
 
