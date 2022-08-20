@@ -6,29 +6,32 @@
 📔 [PyPI profile](https://pypi.org/user/0djentd/)
 
 ## 🖥️📱 Web apps
-https://github.com/0djentd/alprou
+[Alprou (habits tracker)](https://github.com/0djentd/alprou)
 
-https://github.com/0djentd/alprou-backend
+[Alprou backend server](https://github.com/0djentd/alprou-backend)
 
-https://github.com/0djentd/portfolio
+[Portfolio website](https://github.com/0djentd/portfolio)
 
-https://github.com/0djentd/timetable-app
+[Timetable app](https://github.com/0djentd/timetable-app)
 
-https://github.com/0djentd/omoidasu-backend
+[Omoidasu server (flashcards app)](https://github.com/0djentd/omoidasu-backend)
 
 
 ## ⚙️ CLI tools
-https://github.com/0djentd/omoidasu
+[Omoidasu (flashcards app)](https://github.com/0djentd/omoidasu)
 
-https://github.com/0djentd/token-auth-cli
+[token-auth-cli (CLI tool)](https://github.com/0djentd/token-auth-cli)
 
-https://github.com/0djentd/find-similar-and-list
+[find-similar-and-list (CLI tool)](https://github.com/0djentd/find-similar-and-list)
 
 ## 🔧 Blender addons and modules
-https://github.com/0djentd/emtk
+[EMTK](https://github.com/0djentd/emtk)
 
-https://github.com/0djentd/libemtk
+[libemtk](https://github.com/0djentd/libemtk)
 
-https://github.com/0djentd/modal_shortcuts
+[modal_shortcuts](https://github.com/0djentd/modal_shortcuts)
 
-https://github.com/0djentd/class_variables_editor_ui
+[class_variables_editor_ui](https://github.com/0djentd/class_variables_editor_ui)
+
+## And much more.
+[All projects](https://github.com/0djentd?tab=repositories)
