@@ -18,6 +18,8 @@
 
 
 ## ⚙️ CLI tools
+[timetable-cli](https://github.com/0djentd/timetable-cli)
+
 [Omoidasu (flashcards app)](https://github.com/0djentd/omoidasu)
 
 [token-auth-cli (CLI tool)](https://github.com/0djentd/token-auth-cli)
