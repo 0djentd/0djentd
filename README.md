@@ -27,8 +27,6 @@
 [markdown-spaces-generator (CLI tool)](https://github.com/0djentd/markdown-spaces-generator)
 
 ## 🔧 Blender addons and modules
-[EMTK](https://github.com/0djentd/libemtk)
-
 [EMTK](https://github.com/0djentd/emtk)
 
 [libemtk](https://github.com/0djentd/libemtk)
