@@ -22,13 +22,13 @@
 
 [Omoidasu (flashcards app)](https://github.com/0djentd/omoidasu)
 
-[token-auth-cli (CLI tool)](https://github.com/0djentd/token-auth-cli)
-
 [find-similar-and-list (CLI tool)](https://github.com/0djentd/find-similar-and-list)
 
 [markdown-spaces-generator (CLI tool)](https://github.com/0djentd/markdown-spaces-generator)
 
 ## 🔧 Blender addons and modules
+[EMTK](https://github.com/0djentd/libemtk)
+
 [EMTK](https://github.com/0djentd/emtk)
 
 [libemtk](https://github.com/0djentd/libemtk)
