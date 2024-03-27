@@ -24,10 +24,6 @@
 
 [Omoidasu (flashcards app)](https://github.com/0djentd/omoidasu)
 
-[find-similar-and-list (CLI tool)](https://github.com/0djentd/find-similar-and-list)
-
-[markdown-spaces-generator (CLI tool)](https://github.com/0djentd/markdown-spaces-generator)
-
 ## 🔧 Blender addons and modules
 
 [EMTK](https://github.com/0djentd/emtk)
